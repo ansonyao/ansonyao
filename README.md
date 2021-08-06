@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ansonyao
 - 👀 I’m interested in Ruby/Typescript/Javascript
-- 🌱 I’m currently learning From monolith to microservices
+- 🌱 I’m currently learning how to transform from monolith to microservices smoothly and appropiately
 - 💞️ I’m looking to collaborate on fun projects
 - 📫 How to reach me yaoenxin@gmail.com
 
